@@ -19,7 +19,7 @@
 
 ## To Run:
 1. Clone the repository:
-```bash git clone [your-repository-url] ```
+```bash git clone git@github.com:jasonsaini/DNS-Watchdog.git ```
 2. Run the script:
 ```bash python dns_watchdog.py ```
 
