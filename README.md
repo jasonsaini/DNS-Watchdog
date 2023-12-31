@@ -18,11 +18,15 @@
   - Incorporates a one-second delay between each test iteration to moderate network request frequency.
 
 ## To Run:
-1. Clone the repository:
-```bash git clone git@github.com:jasonsaini/DNS-Watchdog.git ```
-2. Run the script:
-```bash python dns_watchdog.py ```
 
+1. Clone the repository:
+```bash
+git clone git@github.com:jasonsaini/DNS-Watchdog.git
+```
+2. Run the script:
+```bash
+python dns_watchdog.py
+```
 
 ## TODOs 📝
 - [ ] Implement `click` library for custom command-line flags.
