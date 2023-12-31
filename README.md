@@ -25,7 +25,7 @@ git clone git@github.com:jasonsaini/DNS-Watchdog.git
 ```
 2. Run the script:
 ```bash
-python dns_watchdog.py
+python watchdog.py
 ```
 
 ## TODOs 📝
