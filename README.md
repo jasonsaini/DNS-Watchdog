@@ -1,7 +1,7 @@
 # 🌐 DNS Watchdog 🕵️‍♂️
 
 ## Overview
-**DNS Watchdog** 🐶 is a powerful Python script designed to monitor the reliability of DNS resolution for 🌎 **Google** and 📺 **YouTube** using a set of predefined DNS servers. This tool is indispensable for network administrators and IT professionals for comprehensive DNS server performance analysis.
+**DNS Watchdog** 🐶 is a  Python script designed to monitor the reliability of DNS resolution for **Google** & **YouTube** using a set of predefined DNS servers. This tool is for DNS server performance analysis.
 
 ## Features
 
